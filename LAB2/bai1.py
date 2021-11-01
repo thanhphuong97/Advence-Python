@@ -1,1 +1,2 @@
-"test lab2"
+with open('abc.txt', 'r') as f:
+    print(type(f))
